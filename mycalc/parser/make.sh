@@ -1,0 +1,1 @@
+gcc lexicalanalyzer.c parser.c
